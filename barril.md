@@ -1,8 +1,12 @@
+<<<<<<< HEAD
 Agente Barril
 =========
 
 - __Super Poder__: Ser barril;
 -  **Bag**:
-	- 100 conto;
+- 100 conto;
 	- Predra *(tipo:Brita)* *x5*
-	- Bermuda Saruel.
+- Bermuda Saruel.
+=======
+Nova realidade
+>>>>>>> new
