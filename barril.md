@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Agente Lyfhen
 =========
 
@@ -7,3 +6,5 @@ Agente Lyfhen
 	- 999g;
 	- Predra *(tipo:Brita)* *x5*
 - 	- Traje esporte fino
+	- Frase ** "Vocês são tudo lixo" **
+	a
