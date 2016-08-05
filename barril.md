@@ -1,12 +1,9 @@
 <<<<<<< HEAD
-Agente Barril
+Agente Lyfhen
 =========
 
-- __Super Poder__: Ser barril;
+- __Super Poder__: Invisibilidade;
 -  **Bag**:
-- 100 conto;
+	- 999g;
 	- Predra *(tipo:Brita)* *x5*
-- Bermuda Saruel.
-=======
-Nova realidade
->>>>>>> new
+- 	- Traje esporte fino
